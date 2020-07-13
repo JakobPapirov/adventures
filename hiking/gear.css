@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="../css/main.css">
+	<title>JP | Adventures | Hiking | Gear</title>
+</head>
+<body id="top">
+	<div class="">
+
+		<nav class="">
+			<a href="" class="">Home</a>
+
+			<a href="../Kayaking/" class="">Kayaking</a>
+			<a href="../traveling/" class="">Traveling</a>
+			<a href="../hiking/" class="">Hiking</a>
+			<a href="../swiming/" class="">Swiming</a>
+			<a href="../minion/" class="">Minion</a>
+			<a href="../secret-compass/" class="">Secret compass</a>
+			<a href="#footer" class="">Contact</a>
+		</nav>
+
+		<!-- Main content starts -->
+		<main class="">
+			<!-- starts -->
+			<section class="">
+				<h1 class="text-5xl">Why do I need gear anyway?</h1>
+				<p>Lorem</p>
+			</section>
+			<!-- ends -->
+		</main>
+		<!-- Main content ends  -->
+
+
+		<footer class="" id="footer">
+			<p>I'm a placeholder footer</p>
+		</footer>
+	</div>
+</body>
+</html>
