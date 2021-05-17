@@ -8,4 +8,4 @@ I've long wanted to make this site/project and even though I might not have that
 
 ## Backend?
 
-At this point, no backend is considered enough, but I might want to eventually to access templateing feature and perhaps I might want to add a DB. If I do, then perhaps I'd go for Django for the built-in SQLite DB.
+At this point, no backend is considered necessary, but I might want to eventually to access templateing feature and perhaps I might want to add a DB. If I do, then perhaps I'd go for Django for the built-in SQLite DB.
